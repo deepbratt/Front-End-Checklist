@@ -2,4 +2,6 @@
 node_modules
 .lycheecache
 lychee-out.md
-config.bat
+.env
+.env.*
+!.env.example
